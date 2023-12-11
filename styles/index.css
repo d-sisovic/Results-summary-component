@@ -1,14 +1,14 @@
 @font-face {
   font-family: "HankenGrotesk-Bold";
-  src: url("../../fonts/Hanken/HankenGrotesk-Bold.ttf");
+  src: url("/fonts/Hanken/HankenGrotesk-Bold.ttf");
 }
 @font-face {
   font-family: "HankenGrotesk-ExtraBold";
-  src: url("../../fonts/Hanken/HankenGrotesk-ExtraBold.ttf");
+  src: url("/fonts/Hanken/HankenGrotesk-ExtraBold.ttf");
 }
 @font-face {
   font-family: "HankenGrotesk-Medium";
-  src: url("../../fonts/Hanken/HankenGrotesk-Medium.ttf");
+  src: url("/fonts/Hanken/HankenGrotesk-Medium.ttf");
 }
 *,
 ::after,
